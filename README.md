@@ -11,7 +11,6 @@ Getting started is quick and easy. All you need is the file above, and the noteb
 ```{python}
 pip install sqlalchemy
 pip install pandas
-
 ```
 
 Unzip the chinook.zip file into the working directory of your Jupyter Notebook, and then you're ready to connect the Sqlite engine and get started.
